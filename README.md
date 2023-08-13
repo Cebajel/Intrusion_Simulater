@@ -23,8 +23,9 @@ Just run following command from terminal at your new folder :
 java instrusion_simulater.Simulater
 ```
 
-Program will ask for the width of the border, enter any natural integer as width of border. 
-After that program will ask for a boolean value if user wants to consider cell in analysis of the intruder while making decisions. Enter "true" if you want to else enter "false".
+- Program will ask for the width of the border, enter any natural integer as width of border.
+- After that program will ask for probability of sensor state change, enter any valid probability value.
+- After that program will ask for a boolean value if user wants to consider cell in analysis of the intruder while making decisions. Enter "true" if you want to else enter "false".
 
 ## Output
 - Program will print out values of X1, Y1, X2, and Y2. (X1, Y1) are the current coordinates of the infiltrator and (X2, Y2) are coordinates on which he has decided to go. Intruder will get caught if sensor on any of these coordinates will get activated. Program will also print out if sensors are active or not on (X1, Y1) and (X2, Y2).
