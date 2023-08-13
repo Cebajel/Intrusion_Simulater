@@ -1,7 +1,6 @@
 package intrusion_simulater;
 
 public class Infiltrator {
-//	private int x1, y1, x2, y2;
 	public int x1, y1, x2, y2;
 	private Clock my_clock;
 	public boolean caught, succeeded, moving, choice;
