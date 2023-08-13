@@ -19,5 +19,4 @@ public class Border {
 		        sensors[i][j].change_state();
 		return;
 	}
-	
 }
