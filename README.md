@@ -1,11 +1,11 @@
-# Intrusion_Simulater
+# Intrusion_Simulator
 This repository is about simulation of border intrusion between two countries, considering infinite border and input width.
 
 ## Prerequisites
 Java Version : >= 17 \
 Verified on **java 17.0.8 2023-07-18 LTS**.
 
-## Setting up The Simulater
+## Setting up The Simulator
 1. Download the **_insturion_simulater_** folder and create another folder wherever you like on your computer to store ".class" files of this project.
 2. Open terminal at the folder you created to store ".class" files.
 3. Run command mentioned below in your terminal after replacing \<path of intrusion_simulater> with actual path of **_intrusion_simulater_** on your computer.
